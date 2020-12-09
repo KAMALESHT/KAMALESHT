@@ -1,16 +1,24 @@
-### Hi there 👋
+ Hi there 👋 I am KAMALESH 👨‍💻
 
-<!--
-**KAMALESHT/KAMALESHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*About Me :-
 
-Here are some ideas to get you started:
+I am an enthusiastic learner with a keen interest to learn new things and develop myself through my regular hard work and self-improvement. With a clear vision of my goal, I always try to be an innovative developer and committed to strengthening my abilities by serving my skills in society and working as a collaborative team person.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Education :-
+
+Pursuing B.E on the domain of EEE 🖥 @LOYOLA-icam college of engineering and technology__Chennai.
+
+*Work Experiences :-
+
+Embedded systems Intern @ Emcog Solutions
+Impant training @ICF
+Experience with pcb designing
+Done projects in Machine learing @python.advance.projects
+
+*Tech Stack:-
+ Python Java  MySQL HTML5 CSS3  Git
+
+               "In order to be irreplaceable,one must always be different"👤
+
+
+🤝 I’m open to collaborate on any project.
