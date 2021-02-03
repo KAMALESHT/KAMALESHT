@@ -12,6 +12,9 @@
 
 *Work Experiences :-
 
+  Web design Intern @caddesk
+
+  Python Intern @Bestenlist
 
   Embedded systems Intern @ Emcog Solutions
 
